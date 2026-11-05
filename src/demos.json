@@ -1,0 +1,227 @@
+{
+  "Machine chest press": {
+    "name": "Leverage Chest Press",
+    "images": [
+      "./demos/Leverage_Chest_Press/0.jpg",
+      "./demos/Leverage_Chest_Press/1.jpg"
+    ],
+    "cue": "Adjust the seat so handles sit around mid-chest. Keep feet planted and shoulder blades against the pad; press smoothly without locking elbows.",
+    "search": "https://www.youtube.com/results?search_query=Machine%20chest%20press%20proper%20form%20tutorial"
+  },
+  "Seated cable row": {
+    "name": "Seated Cable Rows",
+    "images": [
+      "./demos/Seated_Cable_Rows/0.jpg",
+      "./demos/Seated_Cable_Rows/1.jpg"
+    ],
+    "cue": "Sit tall with a neutral back. Pull the handle toward your lower ribs without rocking; return with control.",
+    "search": "https://www.youtube.com/results?search_query=Seated%20cable%20row%20proper%20form%20tutorial"
+  },
+  "Lat pulldown": {
+    "name": "Wide-Grip Lat Pulldown",
+    "images": [
+      "./demos/Wide-Grip_Lat_Pulldown/0.jpg",
+      "./demos/Wide-Grip_Lat_Pulldown/1.jpg"
+    ],
+    "cue": "Secure the thigh pad. Pull toward the upper chest with elbows down; do not yank the handle behind your neck.",
+    "search": "https://www.youtube.com/results?search_query=Lat%20pulldown%20proper%20form%20tutorial"
+  },
+  "Dumbbell shoulder press": {
+    "name": "Dumbbell Shoulder Press",
+    "images": [
+      "./demos/Dumbbell_Shoulder_Press/0.jpg",
+      "./demos/Dumbbell_Shoulder_Press/1.jpg"
+    ],
+    "cue": "Set a stable back-supported seat. Keep ribs down and wrists over elbows. Press only through a comfortable range.",
+    "search": "https://www.youtube.com/results?search_query=Dumbbell%20shoulder%20press%20proper%20form%20tutorial"
+  },
+  "Cable triceps pressdown": {
+    "name": "Triceps Pushdown",
+    "images": [
+      "./demos/Triceps_Pushdown/0.jpg",
+      "./demos/Triceps_Pushdown/1.jpg"
+    ],
+    "cue": "Keep elbows beside your ribs. Straighten the elbows without swinging the torso; return slowly.",
+    "search": "https://www.youtube.com/results?search_query=Cable%20triceps%20pressdown%20proper%20form%20tutorial"
+  },
+  "Dumbbell biceps curl": {
+    "name": "Seated Dumbbell Curl",
+    "images": [
+      "./demos/Seated_Dumbbell_Curl/0.jpg",
+      "./demos/Seated_Dumbbell_Curl/1.jpg"
+    ],
+    "cue": "Keep upper arms still. Curl without rocking; lower slowly. The photo shows a seated version of the same curl.",
+    "search": "https://www.youtube.com/results?search_query=Dumbbell%20biceps%20curl%20proper%20form%20tutorial"
+  },
+  "Leg press": {
+    "name": "Leg Press",
+    "images": [
+      "./demos/Leg_Press/0.jpg",
+      "./demos/Leg_Press/1.jpg"
+    ],
+    "cue": "Keep the entire foot on the platform. Lower only as far as your hips and back stay on the pad; avoid locking knees.",
+    "search": "https://www.youtube.com/results?search_query=Leg%20press%20proper%20form%20tutorial"
+  },
+  "Dumbbell Romanian deadlift": {
+    "name": "Romanian Deadlift",
+    "images": [
+      "./demos/Romanian_Deadlift/0.jpg",
+      "./demos/Romanian_Deadlift/1.jpg"
+    ],
+    "cue": "The photo uses a barbell: use dumbbells beside your legs for this plan. Soften knees, push hips back, keep the weights close, and stop before your back rounds.",
+    "search": "https://www.youtube.com/results?search_query=Dumbbell%20Romanian%20deadlift%20proper%20form%20tutorial"
+  },
+  "Seated leg curl": {
+    "name": "Seated Leg Curl",
+    "images": [
+      "./demos/Seated_Leg_Curl/0.jpg",
+      "./demos/Seated_Leg_Curl/1.jpg"
+    ],
+    "cue": "Align knees with the machine pivot and secure the thigh pad. Curl heels down and back without lifting your hips.",
+    "search": "https://www.youtube.com/results?search_query=Seated%20leg%20curl%20proper%20form%20tutorial"
+  },
+  "Leg extension": {
+    "name": "Leg Extensions",
+    "images": [
+      "./demos/Leg_Extensions/0.jpg",
+      "./demos/Leg_Extensions/1.jpg"
+    ],
+    "cue": "Align knees with the machine pivot; pad rests just above ankles. Straighten smoothly without snapping your knees.",
+    "search": "https://www.youtube.com/results?search_query=Leg%20extension%20proper%20form%20tutorial"
+  },
+  "Calf raise machine": {
+    "name": "Standing Calf Raises",
+    "images": [
+      "./demos/Standing_Calf_Raises/0.jpg",
+      "./demos/Standing_Calf_Raises/1.jpg"
+    ],
+    "cue": "Use support, keep knees soft, and raise heels smoothly. Lower under control; avoid bouncing at the bottom.",
+    "search": "https://www.youtube.com/results?search_query=Calf%20raise%20machine%20proper%20form%20tutorial"
+  },
+  "Pallof press": {
+    "name": "Pallof Press",
+    "images": [
+      "./demos/Pallof_Press/0.jpg",
+      "./demos/Pallof_Press/1.jpg"
+    ],
+    "cue": "Stand sideways to a chest-height cable. Brace your torso, press hands straight out, and resist rotation. Complete both sides.",
+    "search": "https://www.youtube.com/results?search_query=Pallof%20press%20proper%20form%20tutorial"
+  },
+  "Incline dumbbell press": {
+    "name": "Incline Dumbbell Press",
+    "images": [
+      "./demos/Incline_Dumbbell_Press/0.jpg",
+      "./demos/Incline_Dumbbell_Press/1.jpg"
+    ],
+    "cue": "Set a modest bench incline. Plant feet, keep shoulder blades supported, and press without flaring elbows or bouncing.",
+    "search": "https://www.youtube.com/results?search_query=Incline%20dumbbell%20press%20proper%20form%20tutorial"
+  },
+  "Chest-supported row": {
+    "name": "Dumbbell Incline Row",
+    "images": [
+      "./demos/Dumbbell_Incline_Row/0.jpg",
+      "./demos/Dumbbell_Incline_Row/1.jpg"
+    ],
+    "cue": "Support your chest on an incline bench. Pull elbows back without lifting your chest from the pad; lower smoothly.",
+    "search": "https://www.youtube.com/results?search_query=Chest-supported%20row%20proper%20form%20tutorial"
+  },
+  "Neutral-grip lat pulldown": {
+    "name": "V-Bar Pulldown",
+    "images": [
+      "./demos/V-Bar_Pulldown/0.jpg",
+      "./demos/V-Bar_Pulldown/1.jpg"
+    ],
+    "cue": "Use a palms-facing attachment. Secure thighs, pull elbows toward your ribs, and avoid leaning far back.",
+    "search": "https://www.youtube.com/results?search_query=Neutral-grip%20lat%20pulldown%20proper%20form%20tutorial"
+  },
+  "Lateral raise": {
+    "name": "Side Lateral Raise",
+    "images": [
+      "./demos/Side_Lateral_Raise/0.jpg",
+      "./demos/Side_Lateral_Raise/1.jpg"
+    ],
+    "cue": "Use light dumbbells with soft elbows. Raise arms out to about shoulder height without shrugging or swinging.",
+    "search": "https://www.youtube.com/results?search_query=Lateral%20raise%20proper%20form%20tutorial"
+  },
+  "Face pull": {
+    "name": "Face Pull",
+    "images": [
+      "./demos/Face_Pull/0.jpg",
+      "./demos/Face_Pull/1.jpg"
+    ],
+    "cue": "Set the rope near face height. Pull toward your forehead, separating the rope ends. Keep ribs down and use a light load.",
+    "search": "https://www.youtube.com/results?search_query=Face%20pull%20proper%20form%20tutorial"
+  },
+  "Cable curl": {
+    "name": "Standing Biceps Cable Curl",
+    "images": [
+      "./demos/Standing_Biceps_Cable_Curl/0.jpg",
+      "./demos/Standing_Biceps_Cable_Curl/1.jpg"
+    ],
+    "cue": "Keep elbows beside your torso. Curl the low cable handle with no torso swing, then lower slowly.",
+    "search": "https://www.youtube.com/results?search_query=Cable%20curl%20proper%20form%20tutorial"
+  },
+  "Rope pressdown": {
+    "name": "Triceps Pushdown - Rope Attachment",
+    "images": [
+      "./demos/Triceps_Pushdown_-_Rope_Attachment/0.jpg",
+      "./demos/Triceps_Pushdown_-_Rope_Attachment/1.jpg"
+    ],
+    "cue": "Keep elbows still by your ribs; extend and separate the rope slightly at the bottom. Pair with cable curls as prescribed.",
+    "search": "https://www.youtube.com/results?search_query=Rope%20pressdown%20proper%20form%20tutorial"
+  },
+  "Goblet squat or leg press": {
+    "name": "Goblet Squat",
+    "images": [
+      "./demos/Goblet_Squat/0.jpg",
+      "./demos/Goblet_Squat/1.jpg"
+    ],
+    "cue": "Photo shows goblet squat. Hold a dumbbell at the chest, keep heels planted, and squat to a comfortable depth. Leg press is the other programmed option.",
+    "search": "https://www.youtube.com/results?search_query=Goblet%20squat%20or%20leg%20press%20proper%20form%20tutorial"
+  },
+  "Hip thrust or glute bridge": {
+    "name": "Butt Lift (Bridge)",
+    "images": [
+      "./demos/Butt_Lift_Bridge/0.jpg",
+      "./demos/Butt_Lift_Bridge/1.jpg"
+    ],
+    "cue": "Photo shows the floor glute-bridge option. Place feet flat, brace your abdomen, and lift hips by squeezing glutes without arching your lower back.",
+    "search": "https://www.youtube.com/results?search_query=Hip%20thrust%20or%20glute%20bridge%20proper%20form%20tutorial"
+  },
+  "Leg curl": {
+    "name": "Seated Leg Curl",
+    "images": [
+      "./demos/Seated_Leg_Curl/0.jpg",
+      "./demos/Seated_Leg_Curl/1.jpg"
+    ],
+    "cue": "Photo shows seated leg curl; use a comfortable leg-curl machine. Align your knees with its pivot and keep hips still.",
+    "search": "https://www.youtube.com/results?search_query=Leg%20curl%20proper%20form%20tutorial"
+  },
+  "Dumbbell step-up (low step)": {
+    "name": "Dumbbell Step Ups",
+    "images": [
+      "./demos/Dumbbell_Step_Ups/0.jpg",
+      "./demos/Dumbbell_Step_Ups/1.jpg"
+    ],
+    "cue": "Use a low, stable step. Place the full foot on it and drive through the leading leg. Step down slowly; do both legs. Begin without weights if needed.",
+    "search": "https://www.youtube.com/results?search_query=Dumbbell%20step-up%20%28low%20step%29%20proper%20form%20tutorial"
+  },
+  "Farmer carry": {
+    "name": "Farmer's Walk",
+    "images": [
+      "./demos/Farmers_Walk/0.jpg",
+      "./demos/Farmers_Walk/1.jpg"
+    ],
+    "cue": "Stand tall with dumbbells at your sides and walk with controlled, short steps. Keep shoulders level and breathe. Log seconds, not reps.",
+    "search": "https://www.youtube.com/results?search_query=Farmer%20carry%20proper%20form%20tutorial"
+  },
+  "Plank": {
+    "name": "Plank",
+    "images": [
+      "./demos/Plank/0.jpg",
+      "./demos/Plank/1.jpg"
+    ],
+    "cue": "Place elbows under shoulders. Brace abdomen and glutes so your body stays straight; breathe normally. End before your hips sag. Log seconds.",
+    "search": "https://www.youtube.com/results?search_query=Plank%20proper%20form%20tutorial"
+  }
+}
