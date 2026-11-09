@@ -1,7 +1,7 @@
 import {chromium}from'playwright';import assert from'node:assert/strict';import fs from'node:fs';
 const base=process.env.STRIDE_URL||'http://127.0.0.1:4179/';const browser=await chromium.launch({headless:true});const context=await browser.newContext({viewport:{width:393,height:851},deviceScaleFactor:1,isMobile:true,hasTouch:true,timezoneId:'America/New_York',acceptDownloads:true});const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors.push(e.message));let count=0;const ok=s=>{console.log('PASS',++count,s)};
 try{
-await page.goto(base);await page.getByRole('heading',{name:'Your next stronger day.'}).waitFor();await page.evaluate(()=>navigator.serviceWorker.ready);await page.waitForFunction(()=>!!navigator.serviceWorker.controller);ok('app and service worker load');
+await page.clock.setFixedTime(new Date('2026-11-04T17:00:00Z'));await page.goto(base);await page.getByRole('heading',{name:'Your next stronger day.'}).waitFor();await page.evaluate(()=>navigator.serviceWorker.ready);await page.waitForFunction(()=>!!navigator.serviceWorker.controller);ok('app and service worker load');
 assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),true);ok('Android viewport has no horizontal overflow');
 await page.getByLabel('Log date',{exact:true}).fill('2026-11-04');
 await page.getByRole('navigation').getByRole('button',{name:'Train',exact:true}).click();await page.getByRole('button',{name:'A Upper body',exact:true}).click();
